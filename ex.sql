@@ -23,10 +23,12 @@ SELECT *
 FROM `exams`
 WHERE SUBSTRING(hour, 1, 2) > 14 and date > '20-06-2020';
 
---all courses of master degree
+--all degrees of type master's degree
 SELECT *
 FROM `degrees`
 WHERE level = 'magistrale';
+
+--
 
 
 
