@@ -82,3 +82,6 @@ WHERE `departments`.`name` = 'Dipartimento di Matematica'
 --  7. BONUS: Selezionare per ogni studente il numero di tentativi sostenuti
 --  per ogni esame, stampando anche il voto massimo. Successivamente,
 --  filtrare i tentativi con voto minimo 18.
+
+
+--  final commit
